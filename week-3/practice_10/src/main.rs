@@ -12,10 +12,10 @@ fn main() {
     println!("the multiple of 4.0 and 30.0 = {}", product);
 
     //quotient
-    let quotient: 56.7 / 32.2;
+    let quotient = 56.7 / 32.2;
     println!("the division of 56.7 and 32.2 = {}", quotient);
 
     //remainder 
-    let remainder: 43 % 5;
+    let remainder = 43 % 5;
     println!("the remaindr of 43 and 5 = {}", remainder);
 }
